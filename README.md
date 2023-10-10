@@ -1,1 +1,1 @@
-"# AndriuMaistryk12Lab1" 
+# AndriuMaistryk12Lab1
